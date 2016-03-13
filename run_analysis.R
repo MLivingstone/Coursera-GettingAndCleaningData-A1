@@ -63,6 +63,7 @@ colnames(data) <- factor(c("activityid", "subject", varnames, "activityname"))
 # 3. Each table/file stores data about one kind of observation
 
 melt_data <- melt(data,id = c("subject","activityid","activityname"),measure.vars = varnames)
-tidy_data <- dcast(melt_data,subject+activityname~variable, mean) 
+tidy_data <- dcast(melt_data,subject+activityname~variable, mean)
+
 write.table(tidy_data, file = "./tidy_data.txt", row.names = FALSE, col.names = TRUE)
 
