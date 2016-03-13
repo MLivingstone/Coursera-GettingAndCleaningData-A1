@@ -21,3 +21,6 @@ Further details about the files can be found here: http://archive.ics.uci.edu/ml
 
 ## codebook.txt
 This is the codebook for the tidy data set mentioned above. 
+
+## README.md
+The readme file for this repo.
