@@ -1,6 +1,6 @@
 The variables of the tidy dataset, which is the output of the run_analysis.R script.
 
-Variables 3-81 are the measurement means for each "subjec" and "activity name" combination (Variables 1 and 2). 
+Variables 3-81 are the measurement means for each "subject" and "activity name" combination (Variables 1 and 2). 
 
 For example, "tbodyaccelerometerstdy" is the mean of the measurements tbodyaccelerometerstdy from the merged train and test datasets (see https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip for more details)
 
