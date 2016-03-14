@@ -1,4 +1,4 @@
-# Assignment for Getting and Cleaning Data Data Science Coursera course
+# Assignment for Getting and Cleaning Data - Data Science Coursera course
 
 This repo contains the following files:
 * run_analysis.R
