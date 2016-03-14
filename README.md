@@ -1,5 +1,8 @@
 # Assignment for Getting and Cleaning Data Data Science Coursera course
 
+Download the dataset from here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Unzip the data set into your working dicrectory and you should see a folder named UCI HAR Dataset
+
 This repo contains the following files:
 * run_analysis.R
 * codebook.txt
